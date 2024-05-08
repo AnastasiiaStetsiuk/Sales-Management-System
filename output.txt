@@ -1,0 +1,59 @@
+1. Washing Machine
+   - Назва продукту: Washing Machine
+   - Виробник: Samsung
+   - Модель: WF42H5000AW
+   - Ціна: $699.99
+
+2. Smart TV
+   - Назва продукту: Smart TV
+   - Виробник: LG
+   - Модель: OLED55C1PUB
+   - Ціна: $1499.99
+
+3. Refrigerator
+   - Назва продукту: Refrigerator
+   - Виробник: Whirlpool
+   - Модель: WRF535SWHZ
+   - Ціна: $1699.99
+
+4. Laptop
+   - Назва продукту: Laptop
+   - Виробник: Dell
+   - Модель: XPS 13
+   - Ціна: $1199.99
+
+5. Blender
+   - Назва продукту: Blender
+   - Виробник: Vitamix
+   - Модель: E310
+   - Ціна: $349.95
+
+6. Vacuum Cleaner
+   - Назва продукту: Vacuum Cleaner
+   - Виробник: Dyson
+   - Модель: V11 Torque Drive
+   - Ціна: $699.99
+
+7. Microwave Oven
+   - Назва продукту: Microwave Oven
+   - Виробник: Panasonic
+   - Модель: NN-SN67KS
+   - Ціна: $199.99
+
+8. Air Conditioner
+   - Назва продукту: Air Conditioner
+   - Виробник: Carrier
+   - Модель: Infinity 26
+   - Ціна: $3899.99
+
+9. Coffee Maker
+   - Назва продукту: Coffee Maker
+   - Виробник: Breville
+   - Модель: BES870XL
+   - Ціна: $699.95
+
+10. Toaster
+    - Назва продукту: Toaster
+    - Виробник: Cuisinart
+    - Модель: CPT-180P1
+    - Ціна: $69.99
